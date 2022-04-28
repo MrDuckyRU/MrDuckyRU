@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @MrDuckyRU
 - 👀 I’m interested in coding, gaming and doing YouTube/Twitch
-- 🌱 I’m currently learning mostly Python and C++
+- 🌱 I’m currently learning C++
+- ⭐ I'm pretty good with Python
+- 🔍 You can find some of my smaller work and projects in MrDuckyRU/MrDuckyRU
 - 📫 If you want to learn more about me, here are the links: wlo.link/@mrduckyru
